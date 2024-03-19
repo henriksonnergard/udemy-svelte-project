@@ -63,3 +63,12 @@ label {
 .form-control {
   padding: 0.5rem 0;
 }
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.card-wrapper {
+  margin: 0.25rem;
+}
